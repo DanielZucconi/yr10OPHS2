@@ -1,0 +1,110 @@
+num1 = int(input("enter a number"))
+num2 = int(input("enter a number2"))
+if num1 > num2:
+  print(num1, num2)
+else:
+  print(num2, num1)
+  
+ 
+ 
+ 
+ num = int(input("Enter a number under 20 "))
+
+if num > 20:
+    print("too high")
+else:
+    print("Thx")
+ 
+ 
+ 
+ 
+ num = int(intiger("enter a number that is beteen 10 and 20"))
+  if num >= 10 and num <=20:
+    print("thank you")
+  else:
+    print("out of range")
+    
+    
+  
+  
+  
+  colour = input("enteryour favorate colour ").lower()
+    colour == "red":
+      print("same")
+  else:
+      print("if you dont like {colour}, {colour} is for morons 
+      
+      
+      
+      
+
+
+
+rain = input("Is it raining rn? Yes or No ").lower()
+
+if rain == "yes":
+    wind = input("Is it windy? Yes or No ").lower()
+
+    if wind == "yes":
+        print("Its too windy for an umbrella")
+
+    else:
+        print("Take umbrella")
+
+else:
+    print("Nice")
+    
+    
+    
+    
+    
+    age = int(input("How old r u? "))
+
+if age > 18:
+    print("U can vote.")
+
+if age == 17:
+    print("U can learn to drive.")
+
+if age == 16:
+    print("u can buy a lottery ticket ")
+
+if age < 16:
+    print("go trick or treating ")
+    
+    
+    
+    
+    
+    
+    
+      
+num = int(input("Enter a num "))
+
+if num < 10:
+    print("too low")
+
+if num > 20:
+    print("too high")
+
+if 10 <= num <= 20:
+    print("Right ")
+    
+    
+    
+    
+    
+    
+    num = int(input("Enter a number: 1 2 or 3 "))
+
+if num == 1:
+    print("Thx")
+
+elif num == 2:
+    print("Well done ur smart")
+
+elif num == 3:
+    print("Ur good at this")
+
+else:
+    print("R u dum")
